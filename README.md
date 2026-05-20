@@ -1,6 +1,11 @@
 # I2OS-CTG Runtime Shield v1.1
 
-Dry-run transition governance prototype for AI agent runtime security.
+Dry-run transition governance prototype
+for AI agent runtime security.
+
+Author:
+Masayuki Ando (ANDOM)
+Independent Researcher, Japan
 
 CTG does **not** execute commands. It analyzes command-like actions as state transitions and classifies them into:
 
